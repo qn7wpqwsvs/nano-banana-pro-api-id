@@ -105,6 +105,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-ac7503) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [nano-banana-pro-prompts-id](https://github.com/qn7wpqwsvs/nano-banana-pro-prompts-id)
+- **Same model, other languages** — 9 more language builds: 中文 [nano-banana-pro-api-cn](https://github.com/j2pnwx3z8juf/nano-banana-pro-api-cn) · Deutsch [nano-banana-pro-api-de](https://github.com/rs9td1w5p7e/nano-banana-pro-api-de) · Español [nano-banana-pro-api-es](https://github.com/g6-erqods5/nano-banana-pro-api-es) · Français [nano-banana-pro-api-fr](https://github.com/sgta2m/nano-banana-pro-api-fr) · Relay/gateway `nano-banana-pro-api-gateway` · 日本語 [nano-banana-pro-api-ja](https://github.com/z9wa-4xsxvrp/nano-banana-pro-api-ja) · 한국어 [nano-banana-pro-api-ko](https://github.com/wompd2anc/nano-banana-pro-api-ko) · Português [nano-banana-pro-api-pt](https://github.com/f0xtn9oh8g7ia6/nano-banana-pro-api-pt) · Русский [nano-banana-pro-api-ru](https://github.com/v4l5npww2/nano-banana-pro-api-ru)
+- **More models in this language** — [midjourney-api-id](https://github.com/cvrwq0/midjourney-api-id) · [gemini-2-5-flash-image-preview-api-id](https://github.com/gmrg0s/gemini-2-5-flash-image-preview-api-id) · [nano-banana-api-id](https://github.com/vsa185x9ecrd/nano-banana-api-id) · [gemini-3-1-flash-image-preview-api-id](https://github.com/p61qrgpg/gemini-3-1-flash-image-preview-api-id) · [nano-banana-2-api-id](https://github.com/n1rf4ezzz/nano-banana-2-api-id) · [gemini-3-pro-image-preview-api-id](https://github.com/s78ve5v4x9ji2/gemini-3-pro-image-preview-api-id)
+- **Topic hubs** — every build of this model, all languages: [nano-banana-pro](https://github.com/topics/nano-banana-pro) · [nano-banana-pro-api](https://github.com/topics/nano-banana-pro-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
